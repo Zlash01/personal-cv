@@ -1,0 +1,17 @@
+@media (max-width: 84em) {
+  body {
+    margin: 1rem 12rem;
+  }
+}
+
+@media (max-width: 75em) {
+  body {
+    margin: 1rem 7rem;
+  }
+}
+
+@media (max-width: 59em) {
+  body {
+    margin: 1rem 3rem;
+  }
+}

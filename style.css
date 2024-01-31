@@ -1,16 +1,15 @@
-*
-{
+* {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
 }
 
-html{
-  font-size: 62,5%;
+html {
+  font-size: 62, 5%;
   box-sizing: border-box;
 }
 
-body{
+body {
   font-family: "Rubik", sans-serif;
   line-height: 1;
   font-weight: 400;
@@ -19,34 +18,34 @@ body{
   padding: 0 3rem;
 }
 
-
-h1{
+h1 {
   text-align: center;
   font-weight: 600;
 }
 
-
-
-.bold{
+.bold {
   font-weight: 500;
 }
 
-.flex-hfill{
+.flex-hfill {
   display: flex;
   justify-content: space-between;
 }
-
 
 .personal-info {
   padding-bottom: 1rem;
   border-bottom: 2px solid #000;
 }
 
-.cross{
+.cross {
   padding-bottom: 1rem;
   border-bottom: 2px solid #000;
 }
 
-.education{
+.education {
+  padding-top: 1rem;
+}
+
+.skills {
   padding-top: 1rem;
 }

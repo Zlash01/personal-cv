@@ -1,0 +1,52 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html{
+  font-size: 62,5%;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Rubik", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #333;
+  margin: 10px 150px;
+  padding: 0 3rem;
+}
+
+
+h1{
+  text-align: center;
+  font-weight: 600;
+}
+
+
+
+.bold{
+  font-weight: 500;
+}
+
+.flex-hfill{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.personal-info {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #000;
+}
+
+.cross{
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #000;
+}
+
+.education{
+  padding-top: 1rem;
+}
